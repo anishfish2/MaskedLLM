@@ -20,7 +20,11 @@ This project was developed as part of the final assignment for CSCE 421 at Texas
 
 ## Evaluation and Results
 
-The performance of each model should be discussed in detail within the respective Jupyter Notebooks. Key metrics such as accuracy, perplexity, and word generation quality should be analyzed and compared.
+The performance of each model should be discussed in detail within the respective Jupyter Notebooks. Cosine similarity was used as the basis of accuracy
+
+## Limitations
+
+The project involved the Twitch Dataset which contained numerous unknown words for standard vectorizers. As such many words would simply be classified as unknown leading to misleading results. 
 
 ## Possible Improvements
 
