@@ -20,7 +20,7 @@ This project was developed as part of the final assignment for CSCE 421 at Texas
 
 ## Evaluation and Results
 
-The performance of each model should be discussed in detail within the respective Jupyter Notebooks. Cosine similarity was used as the basis of accuracy
+The performance of each model should be discussed in detail within the respective Jupyter Notebooks. Cosine similarity was used as the basis of accuracy.
 
 ## Limitations
 
